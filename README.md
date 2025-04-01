@@ -1,72 +1,36 @@
-<h1 align="center">Hey 👋! I'm Thejashwini..!!</h1>
+<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">Hey !! I'm Thejashwini <img src="https://opengameart.org/sites/default/files/robot-idle.gif" width="40" height="auto" /> </h2>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" height="40" alt="sketch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 </div>
 
-###
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=800&size=40&pause=1000&color=F4C2C2&background=35FF3300&center=true&vCenter=true&random=false&width=435&lines=UI%2FUX+Designer;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+
+<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">  <img src="https://img.itch.zone/aW1hZ2UvOTU4NzkxLzY1Nzg4MzAuZ2lm/original/RJK2%2Fm.gif" width="40" height="auto" />About me </h2>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=777777&width=435&lines=Building+digital+experiences;Turning+ideas+into+reality;Always+learning+new+technologies" alt="About Me Typing SVG" /></a>
+
+<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">  <img src="https://img.itch.zone/aW1hZ2UvOTU4NzkxLzYxODI3MTQuZ2lm/original/9ySKLi.gif" width="40" height="auto" />Teach Stack </h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,reactnative" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,c,java" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,blender,git,github" /><br>
+
 </div>
 
-###
+<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">Connect with me   <img src="https://cdna.artstation.com/p/assets/images/images/014/888/788/original/sam-thompson-streetmechwalk.gif?1546105340" width="40" height="auto" /> </h2>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=thej1812&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thej1812&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=thej1812&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="" alt="stats graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thej1812&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/thej1812/thej1812/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="left">
+  <a href="mailto:thejashwini1801@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
+  <a href="https://linkedin.com/in/thejashwini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
+  <a href="https://twitter.com/Thejashwini1801" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30"/></a>
+  <a href="https://www.behance.net/thejashwini" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance" height="30"/></a>
+  <a href="https://dribbble.com/thejashwini" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" height="30"/></a>
+</p>
