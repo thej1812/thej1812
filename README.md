@@ -7,10 +7,9 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=800&size=40&pause=1000&color=F4C2C2&background=35FF3300&center=true&vCenter=true&random=false&width=435&lines=UI%2FUX+Designer;Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=800&size=40&pause=1000&color=BD93F9&background=35FF3300&center=true&vCenter=true&random=false&width=435&lines=UI%2FUX+Designer;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
-
 
 <h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">  <img src="https://img.itch.zone/aW1hZ2UvOTU4NzkxLzY1Nzg4MzAuZ2lm/original/RJK2%2Fm.gif" width="40" height="auto" />About me </h2>
 
@@ -34,3 +33,26 @@
   <a href="https://www.behance.net/thejashwini-d" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance" height="30"/></a>
   <a href="https://dribbble.com/" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" height="30"/></a>
 </p>
+<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;"><img src="https://www.wildfactor.net/wp-content/uploads/2013/10/hero-animation.gif" width="40" height="auto" /> My Activities    </h2>
+
+<!-- GitHub Stats Layout -->
+<!-- GitHub Stats Layout -->
+<div align="center">
+  
+  <!-- First row with two images side by side with equal dimensions -->
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=thej1812&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thej1812&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="420" height="200" />
+  </div>
+  
+  <!-- Second row with one centered image -->
+  <div>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=thej1812&theme=aura&hide_border=true" alt="GitHub Streak Stats" />
+  </div>
+  
+  <hr />
+  
+  
+  <!-- Credit line -->
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
