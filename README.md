@@ -29,8 +29,8 @@
 
 <p align="left">
   <a href="mailto:thejashwini1801@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="30"/></a>
-  <a href="https://linkedin.com/in/thejashwini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
-  <a href="https://twitter.com/Thejashwini1801" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30"/></a>
-  <a href="https://www.behance.net/thejashwini" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance" height="30"/></a>
-  <a href="https://dribbble.com/thejashwini" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" height="30"/></a>
+  <a href="https://www.linkedin.com/in/thejashwini-d" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/></a>
+  <a href="https://x.com/thejashwini1812" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="30"/></a>
+  <a href="https://www.behance.net/thejashwini-d" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance" height="30"/></a>
+  <a href="https://dribbble.com/" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" height="30"/></a>
 </p>
