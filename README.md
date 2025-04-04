@@ -45,7 +45,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thej1812&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="420" height="200" />
   </div>
   
-  <!-- Second row with one centered image -->
+  
   <div>
     <img src="https://nirzak-streak-stats.vercel.app/?user=thej1812&theme=aura&hide_border=true" alt="GitHub Streak Stats" />
   </div>
@@ -53,6 +53,4 @@
   <hr />
   
   
-  <!-- Credit line -->
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
