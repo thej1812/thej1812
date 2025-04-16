@@ -1,4 +1,4 @@
-<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">Hey !! I'm Thejashwini </h2>
+<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">Hey !! I'm Thejashwini  <img src="https://opengameart.org/sites/default/files/robot-idle.gif" width="40" height="auto" /></h2>
 
 
 <div align="center">
