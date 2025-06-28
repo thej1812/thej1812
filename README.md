@@ -15,7 +15,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=777777&width=435&lines=Building+digital+experiences;Turning+ideas+into+reality;Always+learning+new+technologies" alt="About Me Typing SVG" /></a>
 
-<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">  <img src="https://img.itch.zone/aW1hZ2UvOTU4NzkxLzYxODI3MTQuZ2lm/original/9ySKLi.gif" width="40" height="auto" />Teach Stack </h2>
+<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;">  <img src="https://i.gifer.com/DKke.gif" width="40" height="auto" />Teach Stack </h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,reactnative" /><br>
