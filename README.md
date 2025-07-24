@@ -35,22 +35,3 @@
 </p>
 <h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;"><img src="https://www.wildfactor.net/wp-content/uploads/2013/10/hero-animation.gif" width="40" height="auto" /> My Activities    </h2>
 
-<!-- GitHub Stats Layout -->
-<!-- GitHub Stats Layout -->
-<div align="center">
-  
-  <!-- First row with two images side by side with equal dimensions -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=thej1812&theme=aura&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thej1812&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="420" height="200" />
-  </div>
-  
-  
-  <div>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=thej1812&theme=aura&hide_border=true" alt="GitHub Streak Stats" />
-  </div>
-  
-  <hr />
-  
-  
-</div>
