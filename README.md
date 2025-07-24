@@ -33,5 +33,3 @@
   <a href="https://www.behance.net/thejashwini-d" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white" alt="Behance" height="30"/></a>
   <a href="https://dribbble.com/" target="_blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" height="30"/></a>
 </p>
-<h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;"><img src="https://www.wildfactor.net/wp-content/uploads/2013/10/hero-animation.gif" width="40" height="auto" /> My Activities    </h2>
-
