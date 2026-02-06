@@ -36,18 +36,3 @@
 <h2 style="font-family: Arial, sans-serif; color:#C8A2C8; align="center;"><img src="https://www.wildfactor.net/wp-content/uploads/2013/10/hero-animation.gif" width="40" height="auto" /> My Activities    </h2>
 
 
-<!-- GitHub Stats Layout -->
-<!-- GitHub Stats Layout -->
-<div align="center">
-  
-  <!-- First row with two images side by side with equal dimensions -->
- 
-  
-  <div>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=thej1812&theme=aura&hide_border=true" alt="GitHub Streak Stats" />
-  </div>
-  
-  <hr />
-  
-  
-</div>
